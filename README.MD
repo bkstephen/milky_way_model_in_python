@@ -1,0 +1,1 @@
+`Start by running main.py and wait until the calculaitons are complete`
